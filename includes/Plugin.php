@@ -26,7 +26,7 @@ class Plugin {
 	 *
 	 * @var      string
 	 */
-	protected $plugin_slug = 'wpr-contact-form';
+	protected $plugin_slug = 'ugroup-support-form';
 
 	/**
 	 * Instance of this class.

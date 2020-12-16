@@ -3,21 +3,20 @@
  * WPR Contact Form
  *
  *
- * @package   WPR Contact Form
- * @author    Pangolin
- * @license   GPL-3.0
- * @link      https://gopangolin.com
- * @copyright 2018 Pangolin (Pty) Ltd
+ * @package   UGroup Contact Form
+ * @author    rayflores
+ * @license   GPL-1.0
+ * @link      https://rayflores.com
  *
  * @wordpress-plugin
- * Plugin Name:       WPR Contact Form
- * Plugin URI:        https://gopangolin.com
- * Description:       Basic tutorial on WP-Reactivate usage
+ * Plugin Name:       UGroup Contact Form
+ * Plugin URI:        https://ugroup.com
+ * Description:       UGroup Contact Support for issues
  * Version:           1.0.2
- * Author:            pangolin
- * Author URI:        https://gopangolin.com
- * Text Domain:       wp-reactivate
- * License:           GPL-3.0
+ * Author:            rayflores
+ * Author URI:        https://ugroup.com
+ * Text Domain:       ugroup-support
+ * License:           GPL-1.0
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.txt
  * Domain Path:       /languages
  */
